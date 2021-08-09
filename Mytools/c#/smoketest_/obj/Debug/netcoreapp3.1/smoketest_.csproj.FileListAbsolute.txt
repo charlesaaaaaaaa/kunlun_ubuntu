@@ -1,0 +1,15 @@
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.csprojAssemblyReference.cache
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.AssemblyInfoInputs.cache
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.AssemblyInfo.cs
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.csproj.CoreCompileInputs.cache
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_.deps.json
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_.runtimeconfig.json
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_.runtimeconfig.dev.json
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_.dll
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/smoketest_.pdb
+/home/charles/Mytools/c#/smoketest_/bin/Debug/netcoreapp3.1/Npgsql.dll
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.csproj.CopyComplete
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.dll
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.pdb
+/home/charles/Mytools/c#/smoketest_/obj/Debug/netcoreapp3.1/smoketest_.genruntimeconfig.cache

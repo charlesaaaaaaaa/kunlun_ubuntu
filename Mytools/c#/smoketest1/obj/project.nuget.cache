@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7smr5CYghFg9qxxrOIvYvNSZZ1Gm5v0x6iQgF0ZIQ0dKESABF903x35dlfyNQHDdfdAsyz/KnV9Bcd1+sdNSQA==",
+  "success": true,
+  "projectFilePath": "/home/charles/Mytools/c#/smoketest1/smoketest.csproj",
+  "expectedPackageFiles": [
+    "/home/charles/.nuget/packages/npgsql/5.0.7/npgsql.5.0.7.nupkg.sha512",
+    "/home/charles/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
